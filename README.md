@@ -1,6 +1,4 @@
 # healiat
-Automatically exported from code.google.com/p/healiat
-
 IAT de-obfuscator for protectors such as Themida.
 
 before:
@@ -19,3 +17,4 @@ after:
 
 <img src=22.PNG>
 
+Automatically exported from code.google.com/p/healiat
